@@ -162,6 +162,17 @@ footer div a:hover{
     color: black;
     padding: 10px;
 }
+
 .websites a:hover{
-    background-color: #212729;
+    background-color: #0267c1;
+}
+
+/*CSS for the ice page*/
+#ice_lists a{
+    text-decoration: none;
+    color: black;
+}
+
+#ice_lists a:hover{
+    background-color: #0267c1;
 }
